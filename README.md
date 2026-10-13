@@ -1,5 +1,7 @@
 # P2 Rapport mensuel marketing pour Le Grand Marché
 
+L’entreprise et les données sont fictives.
+
 ## Contexte
 
 Le Grand Marché est une entreprise de grande distribution qui vend en ligne des produits alimentaires et des biens de consommation.
